@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Mon Oct 24 00:05:17 CEST 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0157-f393-9387-00000af91ac8 
-on database directory memory:E:\FI\PA165\Pneuservis\Pneuservis\testdb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
-Loaded from file:/C:/Users/Maros/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+Mon Oct 24 19:30:46 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0157-f7be-9c84-000007575018 
+on database directory memory:C:\Users\Peeve\škola\7. semester\PA165\projekt\PA165_pneuservis\testdb with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/Peeve/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_66-b18
-user.dir=E:\FI\PA165\Pneuservis\Pneuservis
+java.runtime.version=1.8.0_74-b02
+user.dir=C:\Users\Peeve\škola\7. semester\PA165\projekt\PA165_pneuservis
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
